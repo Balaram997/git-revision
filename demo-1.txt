@@ -3,3 +3,7 @@ This is second demo.
 This is demo line in dev branch.
 
 This line is for merging.
+
+
+
+This line is for master merging.
