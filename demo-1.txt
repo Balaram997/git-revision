@@ -3,3 +3,5 @@ This is second demo.
 This is demo line in dev branch.
 
 This line is for merging.
+
+This is dev merging.
